@@ -1,0 +1,4 @@
+Flow 1 (10.0.1.1 -> 10.0.2.2)
+  Throughput: 0.215639 Mbps
+Flow 2 (10.0.2.2 -> 10.0.1.1)
+  Throughput: 0.0552575 Mbps
